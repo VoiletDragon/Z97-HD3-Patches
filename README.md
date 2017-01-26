@@ -1,6 +1,6 @@
 # Z97-HD3-Patches
 
-Patches for the Z97-HD3.
+Patches for Z97-HD3.
 
 SSDT-HACK, Simulating OS X/MacOS which is needed for USB to function properly.
 SSDT-IGPU, Onboard IGPU which injects appropriate Device ID for HD 4600 Desktop, Takes care of injecting ig-platform-id via Clover's Config.
